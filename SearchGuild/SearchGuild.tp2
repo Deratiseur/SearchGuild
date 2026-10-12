@@ -58,11 +58,15 @@ LANGUAGE ~Russian~
 		 
 LANGUAGE ~English~
          ~English~
-         ~SearchGuild/tra/English/setup.TRA~		
+         ~SearchGuild/tra/English/setup.TRA~
 
 LANGUAGE ~Simplified Chinese (By Lzw104522773)~
          ~Schinese~
-         ~SearchGuild/tra/Schinese/setup.TRA~	
+         ~SearchGuild/tra/Schinese/setup.TRA~
+
+LANGUAGE ~French (By Deratiseur)~
+         ~French~
+         ~SearchGuild/tra/French/setup.TRA~	
 	 
 		 
 //
