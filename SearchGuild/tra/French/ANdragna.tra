@@ -48,7 +48,7 @@
 @38 = ~Bien joué, ce salaud de Mae'Var a eu ce qu'il méritait. Dommage qu'il n'ait pas souffert longtemps. Je m'en vais. *La demi-orque se traîne vers la sortie.*~
 
 // In the guild
-@39 = ~*Vous apercevez soudain devant vous une demi-orque dont le visage vous semble familier. Elle a un regard étrange et absent, comme après avoir consommé de la « lotus noire »...*~
+@39 = ~*Vous apercevez soudain devant vous une demi-orque dont le visage vous semble familier. Elle a un regard étrange et absent, comme après avoir consommé de la " lotus noire "...*~
 @40 = ~Je crois reconnaître ton visage. Tu es cette orque de la guilde de Mae'Var... Drangolona, c'est ça ? Comment es-tu arrivée ici ?~
 @41 = ~Hé, ce n'est pas toi qu'on a vue dans la guilde de Mae'Var ? Comment es-tu arrivée ici ?~
 @42 = ~Je t'ai déjà vue quelque part, mais je ne me souviens plus où. Peu importe. Qu'est-ce que tu veux ici ?~ ~Je t'ai déjà vue quelque part, mais je ne me souviens plus où. Peu importe. Qu'est-ce que tu veux ici ?~
@@ -57,14 +57,14 @@
 @45 = ~Je... je n'ai nulle part où aller. Je vivais avec les voleurs, maintenant ils sont morts. Mais j'étais déjà venue ici et j'avais rencontré le mage qui dirigeait cette guilde... Je crois qu'il s'appelait... Abilard ou Aludard... je ne sais plus, et je m'en moque. Alors je me suis faufilée en bas, en pensant pouvoir me reposer ici un moment.~
 @46 = ~Si tu me laisses rester ici, je promets d'aider. Si tu as besoin qu'on vole quelque chose, ou... je peux être utile.~
 @47 = ~D'accord, reste. Mais tu vivras au sous-sol et tu ne te montreras pas à nos clients. Ça ferait... mauvais genre pour notre réputation.~
-@48 = ~Non. Ça se voit que tu touches à la « lotus noire ». Et je ne fais pas confiance aux drogués.~
+@48 = ~Non. Ça se voit que tu touches à la " lotus noire ". Et je ne fais pas confiance aux drogués.~
 
 // BEFORE THE DECISION
 // Keldorn
 @49 = ~Son cœur est sombre et son passé aussi, c'est évident. Si nous l'aidons, qu'est-ce qui garantit qu'elle ne se remettra pas à faire le mal ?~
 
 // Montaron
-@50 = ~Hé hé, ses symptômes ressemblent à ceux qu'on observe après la « lotus ». Elle doit en consommer depuis longtemps.~
+@50 = ~Hé hé, ses symptômes ressemblent à ceux qu'on observe après la " lotus ". Elle doit en consommer depuis longtemps.~
 
 // Nalia - Korgan
 @51 = ~Peut-être devrions-nous quand même l'aider. Payer une place dans un refuge, ou des soins au temple... enfin, je peux aider avec mon propre argent...~
@@ -82,7 +82,7 @@
 @57 = ~C'est une voleuse et une droguée, c'est évident. Je pense qu'elle nous trahira à la première occasion et retombera dans ses vieilles habitudes.~
 
 // Anomen CN
-@58 = ~Je me moque un peu de la guilde. Je vote « oui », pourquoi pas ?~
+@58 = ~Je me moque un peu de la guilde. Je vote " oui ", pourquoi pas ?~
 
 // Viconia
 @59 = ~Je suis contre. Tu crois vraiment qu'on peut lui faire confiance ? Plus j'en apprends sur les rivvins, plus je suis stupéfaite que vous ayez réussi à survivre et à peupler la surface.~
@@ -124,7 +124,7 @@
 @71 = ~*L'ours renifle Drangolona puis souffle d'un air approbateur. Il a un bon instinct pour juger l'âme et le caractère, son avis mérite donc lui aussi d'être pris en compte.*~
 
 // Neera
-@72 = ~Ce serait bien de voir d'abord ce que tu vaux avant de t'engager. Mais puisque les circonstances ont fait que Beshaba t'a embrassée... très bien, soit. Je vais dire « oui », mais tu dois encore prouver ton utilité.~
+@72 = ~Ce serait bien de voir d'abord ce que tu vaux avant de t'engager. Mais puisque les circonstances ont fait que Beshaba t'a embrassée... très bien, soit. Je vais dire " oui ", mais tu dois encore prouver ton utilité.~
 
 // Rasaad
 @73 = ~J'aimerais voter contre, mais je vais m'abstenir. Il est trop facile de juger les autres quand on est soi-même vertueux. Peut-être que cette orque quittera les chemins du mal, je n'en sais rien.~
@@ -136,7 +136,7 @@
 @75 = ~Nous pourrions utiliser quelques combattants supplémentaires, nous ne sommes pas nombreux. D'un autre côté, ton passé, ma chère, n'inspire pas vraiment l'optimisme. Je crois donc que je vais m'abstenir.~
 
 // Montaron
-@76 = ~Si cette demi-orque a décidé de se trouver un travail plus honnête, qui suis-je pour empêcher l'arrivée d'un nouveau membre respectable de la société, hé hé ? Et puis, j'aurai une nouvelle cliente pour la lotus... ! Je plaisante, hé.~
+@76 = ~Si cette demi-orque a décidé de se trouver un travail plus honnête, qui suis-je pour empêcher l'arrivée d'un nouveau membre respectable de la société, hé hé ? Et puis, j'aurai une nouvelle cliente pour le lotus noir... ! Je plaisante, hé.~
 
 // Xzar
 @77 = ~S'il est déjà deux heures, j'aimerais déjeuner. Ensuite, je devrai relire un long sort particulièrement fastidieux...~
@@ -162,7 +162,7 @@
 @85 = ~Elle en a vraiment bavé, et maintenant elle a besoin qu'on l'aide, pas qu'on l'enfonce.~
 
 // Garrick
-@86 = ~Oh. Parler avec cette dame ne m'inspire guère de chansons joyeuses. Plutôt une ballade remplie d'horreurs de toutes sortes. Je ne peux donc pas dire que je rêve de l'avoir dans notre compagnie. Mais... si elle s'en va maintenant, elle mourra probablement, et ma conscience ne me laissera jamais oublier que j'ai fait partie de ceux qui l'ont chassée. Je vote donc « oui ».~
+@86 = ~Oh. Parler avec cette dame ne m'inspire guère de chansons joyeuses. Plutôt une ballade remplie d'horreurs de toutes sortes. Je ne peux donc pas dire que je rêve de l'avoir dans notre compagnie. Mais... si elle s'en va maintenant, elle mourra probablement, et ma conscience ne me laissera jamais oublier que j'ai fait partie de ceux qui l'ont chassée. Je vote donc " oui ".~
 
 // Tiax
 @87 = ~Ce n'est qu'une droguée minable, indigne même de nettoyer les bottes de Tiax ! Mettez-la dehors !!!~
@@ -174,7 +174,7 @@
 // Korgan, Nalia
 @89 = ~*Le nain crache par terre, manifestement mécontent de votre décision.* Stupide. Quand elle sera remise, la première chose qu'elle fera sera de nous dévaliser comme ses amis avant de s'enfuir. J'aimerais espérer qu'elle crèvera ici, mais l'herbe n'agit pas ainsi.~
 @90 = ~C'est très humain de ta part, <CHARNAME>. Il me semble que les orques aussi sont capables de gratitude et d'amitié, comme toutes les autres races.~
-@91 = ~*Avec un ricanement* « Gratitude et amitié. » Répète ça quand ils t'attraperont ! Ils s'amuseront avec toi avant de te couper la tête. Ou ils te réduiront en esclavage pour que tu leur mettes au monde de petits rejetons verts chaque année. Tu resteras assise dans une fosse sombre, couverte de terre et de merde. Dieux, les humains sans cervelle n'apprennent jamais !~
+@91 = ~*Avec un ricanement* " Gratitude et amitié. " Répète ça quand ils t'attraperont ! Ils s'amuseront avec toi avant de te couper la tête. Ou ils te réduiront en esclavage pour que tu leur mettes au monde de petits rejetons verts chaque année. Tu resteras assise dans une fosse sombre, couverte de terre et de merde. Dieux, les humains sans cervelle n'apprennent jamais !~
 @92 = ~Pourquoi faut-il toujours que tu dises des choses aussi dégoûtantes ?! Je ne veux pas t'écouter ! Et moi je pense qu'on devrait lui laisser une chance, tout le monde en mérite une !~
 @93 = ~Tu n'es qu'une gamine riche et gâtée. Ouvre les yeux : le monde est TRÈS différent de tes idées stupides !~
 

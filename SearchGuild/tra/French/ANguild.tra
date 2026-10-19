@@ -27,7 +27,7 @@
 @25 = ~Comme vous voudrez.~
 @26 = ~Viens avec moi.~
 @27 = ~*Vous décidez simplement de passer votre chemin. Vous avez déjà vos propres soucis, et les gobelours qui grognent n'en font pas partie.*~
-@28 = ~Je me demande combien de fois j'ai entendu le mot « aide » au cours de mes voyages. Enfin bref, qui es-tu et comment me connais-tu ?~
+@28 = ~Je me demande combien de fois j'ai entendu le mot " aide " au cours de mes voyages. Enfin bref, qui es-tu et comment me connais-tu ?~
 @29 = ~Pourquoi es-tu si grossier ? Peut-être qu'ils sont dans leur droit.~
 @30 = ~Ta guilde ? Sérieusement ? Que fait exactement cette prétendue guilde ?~
 @31 = ~Je veux dire... essayons simplement d'être, euh, civilisés. Mais j'aimerais savoir quel genre de guilde c'est.~
@@ -44,7 +44,7 @@
 @40 = ~Euh ! Mais d'abord, moi poser question aussi. Toi être magicien, oui ?~ ~Euh ! Mais d'abord, moi poser question aussi. Toi être magicienne, oui ?~
 @41 = ~Je suis parfaitement conscient de mes aptitudes magiques. Pourquoi cette question ?~
 @42 = ~Quel rapport avec tout ça ?~
-@43 = ~Désolé, mon vieux, mais je n'aime pas parler de moi. Je me souviens d'une époque où toute réponse à une question du genre « Tu t'appelles <CHARNAME> ? », « Tu viens de Château-Suif ? », « Tu es l'enfant de Gorion ? » était suivie d'une tentative pour me tuer. Alors désolé.~
+@43 = ~Désolé, mon vieux, mais je n'aime pas parler de moi. Je me souviens d'une époque où toute réponse à une question du genre " Tu t'appelles <CHARNAME> ? ", " Tu viens de Château-Suif ? ", " Tu es l'enfant de Gorion ? " était suivie d'une tentative pour me tuer. Alors désolé.~
 @44 = ~C'est juste que moi très content. Maître aussi être magicien, très puissant. Moi respecter mages. Eux très intelligents.~
 @45 = ~Bien noté, mais venons-en au fait.~
 @46 = ~Mais d'abord, moi poser question. Toi être paladin, oui ?~
@@ -70,7 +70,7 @@
 @66 = ~Moi penser être voleur, c'est mauvais, mauvais métier. Mieux gagner avec tête que voler, moi penser. Et moi aussi penser toi appartenir à guilde, obéir chef des voleurs.~
 @67 = ~Donc tu n'aimes pas les voleurs. Mais je n'ai jamais rien volé. Mon travail consiste à recueillir des informations, rester dans l'ombre, faire de la reconnaissance et poser des pièges. Et je n'appartiens à aucune guilde de voleurs. Je travaille pour mon propre compte.~
 @68 = ~Ça ne te regarde pas ce que je fais. Occupe-toi de tes affaires !~
-@69 = ~Hmm... vous enquêtiez sur des affaires, vous recherchiez des criminels, c'est bien ça ? Tu ne crois pas que personne ne comprendrait mieux leurs motivations et leurs manœuvres cachées que quelqu'un qui... « connaît » les coulisses de ce milieu ? Si tu veux que ta guilde ne se contente pas d'EXISTER, mais qu'elle TRAVAILLE, et qu'elle travaille bien, alors je suis exactement la personne qu'il te faut pour t'aider et te conseiller.~
+@69 = ~Hmm... vous enquêtiez sur des affaires, vous recherchiez des criminels, c'est bien ça ? Tu ne crois pas que personne ne comprendrait mieux leurs motivations et leurs manœuvres cachées que quelqu'un qui... " connaît " les coulisses de ce milieu ? Si tu veux que ta guilde ne se contente pas d'EXISTER, mais qu'elle TRAVAILLE, et qu'elle travaille bien, alors je suis exactement la personne qu'il te faut pour t'aider et te conseiller.~
 @70 = ~C'est bizarre. Je croyais que tu voulais sauver ta guilde, mon vieux. Et pourtant tu fais le difficile ! Je n'aime pas traiter avec quelqu'un comme toi. Je préfère continuer mon chemin.~
 @71 = ~Bien sûr, pose tout ce que toi vouloir. Moi dire tout ce que savoir.~
 @72 = ~Moi comprendre ! Moi te croire.~
@@ -85,7 +85,7 @@
 @81 = ~*Nordic soupire tristement.* Huh... Adelarrd pas seulement mon Maître, lui mon ami. Lui m'a pris dans guilde, pris soin de moi, éduqué moi... appris grammairrre. Maintenant lui disparu et moi pas pouvoir trouver !~
 @82 = ~Venons-en au fait.~
 @83 = ~C'est toujours triste de perdre des amis. Il n'a laissé aucune piste ?~
-@84 = ~Moi m'égare, oui. Quelque chose existe ! Avant partir, Maître parler d'un endroit ou nom. Lui dire « Kassia ». Peut-être lui chercher quelqu'un. Moi jamais rencontrer personne avec ce nom.~
+@84 = ~Moi m'égare, oui. Quelque chose existe ! Avant partir, Maître parler d'un endroit ou nom. Lui dire " Kassia ". Peut-être lui chercher quelqu'un. Moi jamais rencontrer personne avec ce nom.~
 @85 = ~Maître rien dire d'autre. Lui sortir dans nuit, prêt pour combat, moi sûr. Lui préparer parchemins et potions, prendre son bâton le plus puissant. Moi demander venir avec lui, mais Maître refuser. Maître idiot, trop sûr de lui. Lui dire moi garder guilde et partir. Moi rester. Ugh !~
 @86 = ~*Le gobelours se tait, se détourne, et un long silence pesant s'installe entre vous.*~
 @87 = ~Hmm, je vois. Et combien de temps s'est écoulé depuis cette nuit, Nordic ?~
@@ -129,7 +129,7 @@
 @125 = ~Je comprends mieux pourquoi cette guilde compte autant pour toi. Mais laisse-moi encore te poser quelques questions.~
 @126 = ~RRAAARR !!!~ [BUGBR02A]
 @127 = ~Guilde faire enquêtes. Nous rechercher méchants rusés — meurtriers, violeurs, faussaires argent et or, sorciers mauvais, et autres qui cassent loi.~
-@128 = ~Et depuis fondation guilde, Maître aider garde. Moi pas bien comprendre ce que Maître a dit une fois. « Nous servons le Conseil des Cinq... »~
+@128 = ~Et depuis fondation guilde, Maître aider garde. Moi pas bien comprendre ce que Maître a dit une fois. " Nous servons le Conseil des Cinq... "~
 @129 = ~Alors qu'est-ce qui distingue votre guilde des chasseurs de primes ?~
 @130 = ~*Nordic renifle avec mépris.* De ces... qui s'appellent Venators ? Maître enquête affaires compliquées : héritages confus, lignées obscures, étrange magie du temps ; moi mal à tête rien que penser. Maître parfois expliquer, et moi hocher tête, faire semblant comprendre.~
 @131 = ~Malgré tout, je ne vois pas à quoi tout cela vous sert.~
@@ -200,8 +200,8 @@
 // Edwin
 @193 = ~*Le Magicien Rouge examine la guilde avec méfiance. Mais la prudence de son visage cède bientôt la place au mépris.* Je le savais ! Comment peut-on appeler cette misérable chose une guilde, je l'ignore. Mes talents méritent un cadre bien meilleur que cette ruine ! (Prudence, Odesseiron ! Tu veux qu'ils aient besoin de toi !)~
 @194 = ~J'en ai assez de t'entendre te plaindre. Arrête ou va-t'en.~
-@195 = ~Cet endroit est miteux, pitoyable, insignifiant et condamné — quel que soit le nom que tu veuilles donner à cette « guilde ». Nous pourrions avoir quelque chose de valable, et à la place je me retrouve avec... ça !~
-@196 = ~Miteux, pitoyable, insignifiant, appelle cette « guilde » comme tu veux. Nous pourrions avoir quelque chose de valable, comme cette gigantesque sphère magique des Bas-Quartiers ! Mais non, à la place je me retrouve avec... ça !~
+@195 = ~Cet endroit est miteux, pitoyable, insignifiant et condamné — quel que soit le nom que tu veuilles donner à cette " guilde ". Nous pourrions avoir quelque chose de valable, et à la place je me retrouve avec... ça !~
+@196 = ~Miteux, pitoyable, insignifiant, appelle cette " guilde " comme tu veux. Nous pourrions avoir quelque chose de valable, comme cette gigantesque sphère magique des Bas-Quartiers ! Mais non, à la place je me retrouve avec... ça !~
 @197 = ~Je suis d'accord, cet endroit a connu des jours meilleurs, mais nous devons faire avec ce que nous avons. Nous n'avons encore aucun autre refuge sûr à Athkatla.~
 @198 = ~Fiable ?! C'est un miracle que le toit de cette ruine ne se soit pas déjà effondré sur nous tous !~
 @199 = ~Allons, Edwin ! Le bâtiment est assez solide pour survivre encore quelques années à tes râleries. Bien sûr, si tout se passe bien, je te réserverai une pièce pour ton laboratoire personnel, où tu pourras poursuivre tes recherches magiques sans être dérangé.~
@@ -213,7 +213,7 @@
 @203 = ~Mêle-toi de tes affaires, Viconia. C'est moi qui décide de ce qui est le mieux pour nous.~
 @204 = ~*La drow vous coupe !* Bien s'y prendre ?! Dis-moi ce qui t'a empêché de saisir une véritable occasion au lieu de cette... cette... sous-guilde ! *Elle paraît bouleversée, comme incapable d'exprimer correctement toute son exaspération !*~
 @205 = ~*Vous lui souriez.* J'espère qu'avec ton aide nous saurons tirer le meilleur parti de cette occasion.~
-@206 = ~Tu peux enterrer tes espoirs idiots dès maintenant, jaluk. Nous croupirons ici avec cette « guilde », dans la pauvreté et l'oubli, jusqu'à la prochaine manifestation de Lolth sur ce plan matériel !~
+@206 = ~Tu peux enterrer tes espoirs idiots dès maintenant, jaluk. Nous croupirons ici avec cette " guilde ", dans la pauvreté et l'oubli, jusqu'à la prochaine manifestation de Lolth sur ce plan matériel !~
 @207 = ~Je n'y vois aucun espoir ! *Le ton de Viconia devient sarcastique.* De toute façon, les imbéciles n'écoutent jamais personne et finissent avec le crâne fracassé !~
 
 // Imoen, Nordic
@@ -225,7 +225,7 @@
 
 // Jaheira
 @213 = ~Je suis désolée, mais notre amitié compte trop pour moi pour que je te dise seulement ce que tu veux entendre, <CHARNAME>. Je ne vois rien de valable ici, et je ne comprends même pas pourquoi tu t'en préoccupes. Nous avons plus important à faire, comme retrouver Imoen et régler son compte à Irenicus.~
-@214 = ~Peut-être devrais-tu d'abord t'occuper d'eux, et seulement ensuite continuer à jouer avec cette « guilde » ?~
+@214 = ~Peut-être devrais-tu d'abord t'occuper d'eux, et seulement ensuite continuer à jouer avec cette " guilde " ?~
 @215 = ~Je pense que la guerre contre Irenicus va durer, et il nous faudra bien un refuge quelque part. Je ne croule pas sous les contacts à Athkatla, et j'aimerais avoir un endroit à nous plutôt que de dormir dans des auberges ou de nous cacher. Je dis qu'on s'occupe de la Guilde des détectives. C'est petit, mais c'est un bon abri et un moyen de gagner quelques pièces tout en aidant les gens. Ce n'est pas un peu la devise des Ménestrels, ça ?~
 @216 = ~Je suis désolée, mais notre amitié compte trop pour moi pour que je te dise seulement ce que tu veux entendre, <CHARNAME>. Je ne vois rien de valable ici, et je ne comprends même pas pourquoi tu t'en préoccupes. Nous avons plus important à faire, comme vaincre Irenicus.~
 @217 = ~Pour atteindre nos objectifs, il nous faut de l'argent, et la guilde peut générer des revenus.~
@@ -249,7 +249,7 @@
 
 // Alora
 @229 = ~Je trouve ça génial de suivre une piste, résoudre des crimes et prendre les méchants la main dans le sac !~
-@230 = ~Oh, attends une seconde... ton Maître n'enquêtait pas sur de petits, minuscules, hum... « emprunts » faits à des marchands beaucoup trop riches et gonflés d'importance, si ?~
+@230 = ~Oh, attends une seconde... ton Maître n'enquêtait pas sur de petits, minuscules, hum... " emprunts " faits à des marchands beaucoup trop riches et gonflés d'importance, si ?~
 @231 = ~*Le gobelours sourit devant le compliment.* Non, petite dame ! Mon Maître et moi attraper surtout gros méchants, oui, et les livrrer aux mains de justice !~
 @232 = ~Merveilleux, merveilleux, merveilleux ! Dans ce cas, nous devons aider ce digne et formidable gobelours ! *Elle vous attrape la main.* On peut le faire, pas vrai ?~
 @233 = ~*Vous soupirez.* Lâche ma main, Alora, s'il te plaît.~
@@ -296,7 +296,7 @@
 @261 = ~Moi penser avoir déjà tout dit. Petite guilde, Maître acheter bâtiment à prix barr-réduit et fonder en hiver soixante-cinq. Aucune autre guilde comme ça en Amn, mais voleurs prennent certains de nos clients ! Eux pas aimer concurrence.~
 
 //Adelard's desk and cabinet
-@262 = ~*Le parchemin porte le dessin d'une jeune femme séduisante assise à une table, une tasse de café à la main. Au-dessous est inscrit : « Ma chère Elizabeth... »*~
+@262 = ~*Le parchemin porte le dessin d'une jeune femme séduisante assise à une table, une tasse de café à la main. Au-dessous est inscrit : " Ma chère Elizabeth... "*~
 @263 = ~*soupire* Maîtresse... La femme de Maître morte en couches bien avant fondation Guilde. Enfant pas survivre non plus. Maître très blessé par ça, longtemps triste, puis quitter Eauprofonde...~
 @264 = ~Maître la peindre dans café... endroit comme boutique à café où gens viennent manger vite, oui... mais pas servir viande, gens juste venir parler. C'est là lui rencontrer elle et après eux se marier.~
 @265 = ~Regarde, la tasse qu'elle tient porte le nombre 13. ... Si c'est une date, deux chiffres manquent exprès. Mais la serrure a six chiffres, donc il y a probablement aussi un mois dans le code.~
@@ -432,7 +432,7 @@
 @388 = ~Toi rr-ruiner guilde si toi pas utiliser tête ! Qu'est-ce qu'on fait maintenant ?!~
 @389 = ~Ne t'inquiète pas, nous engagerons simplement un autre conseiller.~
 @390 = ~Seul un imbécile poserait cette question. Tu veux que je jette autant d'argent par les fenêtres ? Nous trouverons un autre conseiller moins cher.~
-@391 = ~Écoute, je suis désolé pour ce qui est arrivé à ta guilde, mais j'en ai assez de cette « charité ». Je suis sûr que quelqu'un de plus riche acceptera de t'aider. Pour moi, c'est terminé.~
+@391 = ~Écoute, je suis désolé pour ce qui est arrivé à ta guilde, mais j'en ai assez de cette " charité ". Je suis sûr que quelqu'un de plus riche acceptera de t'aider. Pour moi, c'est terminé.~
 @392 = ~Gobelours, j'en ai assez de toi. Adieu.~
 @393 = ~Nous n'avons pas le temps de chercher quelqu'un d'autre. Engage celui-là ! Ça se voit à lui. *Le gobelours pointe du doigt le ventre bien rebondi de Numa.* Cet homme mange beaucoup, donc lui connaître son métier, et bien le connaître.~
 @394 = ~Hmm... je crois que tu n'as peut-être pas tort.~
@@ -526,7 +526,7 @@
 @478 = ~Quoi que vous fassiez à Athkatla, être chef de guilde vous ouvrira bien des portes ! Je voulais simplement préciser que mes conseils viennent de ma propre expérience, si je puis me permettre, monsieur. J'ai commencé dans cette ville exactement comme vous.~ ~Quoi que vous fassiez à Athkatla, être chef de guilde vous ouvrira bien des portes ! Je voulais simplement préciser que mes conseils viennent de ma propre expérience, si je puis me permettre, madame. J'ai commencé dans cette ville exactement comme vous.~
 @479 = ~Dans ma jeunesse, il m'est souvent arrivé de devoir manger moins pendant plusieurs jours et dormir dans la rue avant que les choses ne s'améliorent. La chance vous tombe entre les mains ; à votre place, je ferais l'effort de l'attraper par la queue. Heureusement, il suffira peut-être d'un petit effort dans la bonne direction, rien d'insurmontable.~
 @480 = ~Pourriez-vous m'expliquer ce qu'on attendra de moi en tant que chef de guilde ?~
-@481 = ~Et en quoi consistent ces « petits efforts » ? Que devrais-je faire dans la guilde ?~
+@481 = ~Et en quoi consistent ces " petits efforts " ? Que devrais-je faire dans la guilde ?~
 @482 = ~En résumé, quelles seraient mes obligations comme maître de guilde ?~
 @483 = ~Vos tâches seront relativement simples : diriger la guilde, prendre les décisions et gagner de l'argent pour vous-même et pour la guilde. Il y aura cependant des responsabilités plus complexes, notamment vous occuper de votre personnel.~
 @484 = ~En bref, ce sont les mêmes responsabilités que celles d'un chef de bande de mercenaires. J'espère que vous ne pensiez pas que j'ignorais votre véritable activité. C'est une bonne chose que vous ayez déjà une expérience comparable.~
@@ -582,7 +582,7 @@
 @544 = ~D'ordinaire, ce genre d'organisation suit les épouses à la demande de leurs maris. Elles espionnent les amants malheureux et empêchent les gens passionnés de profiter de la vie. C'est affreux. Mais si tu ne comptes pas faire ce genre de travail, ça me va.~
 @546 = ~Bien sûr, vas-y ! Grâce à cette guilde, nous pourrons découvrir les secrets de nombreux nobles du coin, comme l'endroit où ils cachent leurs bijoux et leurs petits péchés. Ça facilitera notre *travail* avec eux.~
 @548 = ~À mon avis, c'est une activité honorable, puisque cela permet d'aider les gardes à rechercher les criminels.~
-@550 = ~Bien sûr, son avis est tellement « important » pour nous ! Hmpf !~
+@550 = ~Bien sûr, son avis est tellement " important " pour nous ! Hmpf !~
 @551 = ~La Guilde pourra servir au règne de Tiax pour traquer les rebelles mécontents et les torturer sauvagement jusqu'à ce qu'ils reconnaissent que Tiax est le plus grand et le plus miséricordieux des souverains !!!~ [TIAX2]
 @553 = ~En théorie, je pense que c'est une bonne idée, mais seulement si tu établis un vrai plan. Je peux t'aider pour ça. À Athkatla, il y a constamment des crimes et des disparitions. La Guilde des détectives ne manquera donc pas de travail.~
 @555 = ~Ça ne m'intéresse pas. Si tu veux le faire, fais-le. Sinon, aucun problème.~
@@ -631,7 +631,7 @@
 @602 = ~C'est exact. Je suis prêt à régler la dette et à conclure avec la cité un nouveau contrat de location directe.~
 @603 = ~Je paie toujours mes dettes à temps.~
 @604 = ~*Le conseiller pose silencieusement le sac d'or sur la table et recule d'un pas.*~
-@605 = ~Voyons... « Contrat de location résidentielle et commerciale »... sans sous-location — cette restriction étant étendue en cas de propriété commune... Compte tenu des nouvelles circonstances, il semble préférable de préparer votre reconnaissance officielle par les autorités d'Amn comme chef de guilde. Nous devrons toutefois examiner votre passé afin de nous assurer que vous n'êtes pas un ennemi de l'Amn.~
+@605 = ~Voyons... " Contrat de location résidentielle et commerciale "... sans sous-location — cette restriction étant étendue en cas de propriété commune... Compte tenu des nouvelles circonstances, il semble préférable de préparer votre reconnaissance officielle par les autorités d'Amn comme chef de guilde. Nous devrons toutefois examiner votre passé afin de nous assurer que vous n'êtes pas un ennemi de l'Amn.~
 @606 = ~Pardon de vous interrompre, mais j'ai déjà tout expliqué au nouveau maître de guilde. Allons droit au but !~
 @607 = ~Oui, oui, bien sûr, je comprends. Merci pour cette précision. Si votre biographie nous convient, nous ferons notre possible pour écourter la procédure.~
 @608 = ~*Durant l'heure suivante, un haut fonctionnaire et trois collègues parcourent à la hâte d'énormes registres remplis de noms d'espions, de hors-la-loi et d'ennemis de l'Amn, tandis qu'un jeune fonctionnaire prépare les robes noires cérémonielles et mesure votre doigt. Une fois les préparatifs terminés, vous prêtez solennellement serment comme chef de guilde et citoyen d'Amn.*~
@@ -652,7 +652,7 @@
 @622 = ~*Le gobelours paraît très heureux.*~
 @623 = ~Alors, Nordic, tu es content ?~
 @624 = ~Eh bien, Nordic, ta précieuse guilde va désormais vivre et prospérer. Il faudra encore voir ce qu'il en est de l'héritage d'Adelard pour que le bâtiment nous appartienne vraiment.~
-@625 = ~Tu m'as finalement fait accepter ce travail... Mais tant qu'à faire, essayons de tirer le meilleur parti de cette guilde. Au fait, tu es désormais Détective principal, mon vieux. Je veux dire « partenaire », bien sûr.~
+@625 = ~Tu m'as finalement fait accepter ce travail... Mais tant qu'à faire, essayons de tirer le meilleur parti de cette guilde. Au fait, tu es désormais Détective principal, mon vieux. Je veux dire " partenaire ", bien sûr.~
 @626 = ~La situation est un peu chaotique. Mais toi, tu as l'air heureux.~ 
 @627 = ~Moi toujours pas croire, Maître. Merci !! Moi penser guilde allait finir. Mais avec toi, guilde vivre. Moi désolé avoir douté de toi !~ ~Moi toujours pas croire, Maîtresse. Merci !! Moi penser guilde allait finir. Mais avec toi, guilde vivre. Moi désolé avoir douté de toi !~
 @628 = ~Je n'étais pas sûr de devoir m'en mêler moi-même, mais j'y suis. La décision est prise. Nous avons la guilde, alors sujet clos.~ 
@@ -663,7 +663,7 @@
 @633 = ~*Rugit joyeusement* Oui, Maître. Voilà, moi retourner guilde !~ ~*Rugit joyeusement* Oui, Maîtresse. Voilà, moi retourner guilde !~
 
 // NPC reactions (failure)
-@634 = ~Grâce à Shar, nous ne risquons plus de finir nos jours dans cette misérable « guilde ». J'espère qu'à l'avenir tu ne gaspilleras plus NOTRE temps avec ce genre d'absurdités.~
+@634 = ~Grâce à Shar, nous ne risquons plus de finir nos jours dans cette misérable " guilde ". J'espère qu'à l'avenir tu ne gaspilleras plus NOTRE temps avec ce genre d'absurdités.~
 @635 = ~Oh, c-c'est dommage. Ça m'intéressait beaucoup.~
 @636 = ~Eh bien voilà ! Je rêvais déjà d'histoires encore plus saisissantes...~
 @637 = ~Et pourquoi ça ne m'étonne pas ? À quoi bon commencer quelque chose qui était voué à l'échec dès le départ ?~
@@ -764,7 +764,7 @@
 @747 = ~Et ma décision a aussi été influencée par...~
 @748 = ~...l'absence de concurrence pour vous au sein de la guilde.~
 @749 = ~...la possibilité de devenir le bras droit d'un chef de guilde inexpérimenté qui a besoin de vos conseils.~
-@750 = ~...vous voulez miser sur un « cheval noir » et monter rapidement en cas de succès.~
+@750 = ~...vous voulez miser sur un " cheval noir " et monter rapidement en cas de succès.~
 @751 = ~...le fait qu'on ne vous refusera pas ici, vu tout ce que nous vous devons pour avoir sauvé la guilde.~
 @752 = ~Cela aussi, je ne vais pas mentir. Une guilde de cette taille n'a pas besoin d'un second conseiller.~
 @753 = ~Vous avez toutes les qualités d'un chef à forte volonté, c'est pourquoi je mise sur vous. Une fois l'expérience acquise, vous dirigerez la guilde d'une main de fer, je n'en doute pas. Mais au début de votre parcours, mes conseils pourraient réellement vous être utiles.~
@@ -819,7 +819,7 @@
 @793 = ~Une nourrice du Quartier du Gouvernement est passée. Elle affirme que l'un des enfants dont elle s'occupe est très étrange. La nuit, il réussit à sortir de son berceau et, par deux fois déjà, elle ne l'a rattrapé qu'au seuil de la maison. Elle pense que cela a un rapport avec les fées ; elle entend parfois de faibles voix dans la chambre d'enfant. Elle nous demande de suivre le garçon pour voir où il va. Elle-même a peur de le faire la nuit.~
 @794 = ~Les égouts ne servent manifestement pas qu'à évacuer les eaux usées : il s'y trame aussi des choses peu nettes. Un garde est venu nous signaler du bruit et de la lumière sous une grille d'évacuation. Il a d'abord pensé à des monstres, mais il affirme avoir entendu des voix humaines.~
 @795 = ~Quelqu'un dessine sans cesse des graffitis insultants et des images délirantes sur les murs du Conseil des Six. Apparemment, cette personne déteste la politique du gouvernement. Les gardes n'arrivent pas à attraper cet insolent, comme s'il était invisible. Ils nous ont donc demandé de le retrouver.~
-@796 = ~On raconte que des contrebandiers utilisent un tunnel secret pour franchir les murs et faire entrer de la Lotus Noire en ville. Si nous trouvons des preuves, la garde de la cité offrira une récompense pour ces informations.~
+@796 = ~On raconte que des contrebandiers utilisent un tunnel secret pour franchir les murs et faire entrer du lotus noir Noire en ville. Si nous trouvons des preuves, la garde de la cité offrira une récompense pour ces informations.~
 @797 = ~Plusieurs habitants du quartier des Docks entendent chaque nuit le cri effroyable d'un homme en train de se noyer. Le phénomène se répète sans cesse, et des fantômes semblent impliqués.~
 @798 = ~Un homme mort, privé de ses bras, a récemment été découvert près de la Couronne de Cuivre. C'était un pickpocket bien connu en ville. Quelqu'un lui a tranché les bras puis l'a laissé mourir. Les gardes ont demandé de l'aide pour retrouver le meurtrier.~
 @799 = ~Un herboriste a demandé des algues nécessaires au traitement des rhumatismes. Mais personne ne sait où en trouver.~

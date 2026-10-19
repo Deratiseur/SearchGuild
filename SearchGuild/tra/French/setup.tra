@@ -48,7 +48,7 @@ Approuvé par l'officier exécutif du Conseil municipal le 16 Alturiak 1365 CV.
 Le 3 Alturiak 1365 CV~
 
 @15 = ~Note d'Adelard~
-@16 = ~« ...ce qui signifie que Kassia a réussi à s'échapper d'une manière ou d'une autre. Aujourd'hui, je saurai si ... n'a pas été achevé. Si ce n'est pas le cas et que les choses continuent ainsi, je devrai prévenir F. immédiatement... »~
+@16 = ~" ...ce qui signifie que Kassia a réussi à s'échapper d'une manière ou d'une autre. Aujourd'hui, je saurai si ... n'a pas été achevé. Si ce n'est pas le cas et que les choses continuent ainsi, je devrai prévenir F. immédiatement... "~
 
 @17 = ~Lettre du Conseil municipal~
 @18 = ~À maître Adelard le Vagabond, chef de la Guilde des détectives d'Athkatla.
@@ -61,7 +61,7 @@ Officier exécutif : (*signature illisible ; au-dessous figure l'immense sceau d
 Le 5 Martel 1369 CV~
 
 @19 = ~Lettre déchirée du Service des impôts d'Athkatla~
-@20 = ~Cette lettre est totalement illisible, apparemment mise en pièces dans un accès de rage. Vous ne parvenez à distinguer que les mots « dette » et « Ath...atla ».~
+@20 = ~Cette lettre est totalement illisible, apparemment mise en pièces dans un accès de rage. Vous ne parvenez à distinguer que les mots " dette " et " Ath...atla ".~
 
 @21 = ~Requête~
 @22 = ~Cher monsieur Adelard, j'espère que vous allez bien ! Je voulais simplement vous prévenir qu'une série de crimes effrayants a eu lieu dans le Quartier du Pont. On dirait qu'un fou écorche ses victimes. Il y a déjà eu trois attaques et je crains vraiment que ce ne soit pas terminé. Je vous serais très reconnaissant si vous pouviez nous aider. Trouvez un moyen de me contacter ; je suis souvent de service dans le Quartier du Pont pendant la journée.
@@ -127,14 +127,14 @@ Approuvé par l'officier exécutif du Conseil municipal.
 @40 = ~TU VAS PARLER, SALOPE ?! SI TU CONTINUES À TE TAIRE, JE TE TAILLADE LE VISAGE !~
 @41 = ~*MEUGLEMENT APPROBATEUR*~
 @42 = ~OÙ AS-TU CACHÉ L'OR, SALOPE ?!~
-@43 = ~ON NE PEUT JAMAIS FAIRE CONFIANCE À CES PUTAINS D'ORQUES !! NI À CEUX QUI SE DÉFONCENT À LA LOTUS ! FRAPPE-LA FORT, LE PETIT !~
+@43 = ~ON NE PEUT JAMAIS FAIRE CONFIANCE À CES PUTAINS D'ORQUES !! NI À CEUX QUI SE DÉFONCENT au lotus noir ! FRAPPE-LA FORT, LE PETIT !~
 @44 = ~TU PEUX TE TAIRE TANT QUE TU VEUX, TU FINIRAS PAR TOUT NOUS DIRE !! TÔT OU TARD, ICI, TOUT LE MONDE SE MET À PARLER !~
 
 @45 = ~Manuel du détective~
 @46 = ~MCCCLXVII
 Dans ce court manuscrit de la main d'Adelard le Vagabond, premier chef de la Guilde des détectives d'Athkatla, sont consignés les principes essentiels de l'enquête criminelle. L'écriture est grande et élégante, mais difficile à lire tant les lettres sont chargées de motifs, de volutes et d'autres ornements.
 
-« Cinq règles pour aider l'enquêteur :
+" Cinq règles pour aider l'enquêteur :
 
 1. Écoutez attentivement
 ...toutes les personnes impliquées ; prêtez attention au moindre détail, même le plus insignifiant : tout ce que vous entendrez pourra vous être utile plus tard.
@@ -149,7 +149,7 @@ Dans ce court manuscrit de la main d'Adelard le Vagabond, premier chef de la Gui
 ...à partir de ce que vous avez appris, élaborez une version des faits capable de répondre aux questions : qui, quoi, quand et — surtout ! — pourquoi le crime a été commis. Évitez les hypothèses sans fondement.
 
 5. Réduisez la liste des suspects
-...mais n'écartez que ceux dont l'alibi est irréprochable. Et priez Heaum pour que votre filet soit solide et que le dernier poisson qui s'y trouve soit bien le coupable. »~
+...mais n'écartez que ceux dont l'alibi est irréprochable. Et priez Heaum pour que votre filet soit solide et que le dernier poisson qui s'y trouve soit bien le coupable. "~
 
 @47 = ~Par cette fenêtre, vous voyez les Bas-Quartiers grouiller de vie : un flot incessant de chiffonniers, vagabonds, colporteurs, ferrailleurs, ramoneurs, dockers et autres travailleurs de toutes races et de tous sexes — l'armée laborieuse de la cité, chargée de ses tâches les plus dures et les plus sales.~
 @48 = ~Hall~
@@ -220,7 +220,7 @@ Nordic~
 
 @1000 = ~Nettoyer le sous-sol
 
-Une gelée a envahi le sous-sol de la guilde. Nordic affirme que c'est l'œuvre d'un mage nommé « Narrrciliss ». Il ressemble beaucoup à cet étrange scientifique de la Vallée des Tombes.~
+Une gelée a envahi le sous-sol de la guilde. Nordic affirme que c'est l'œuvre d'un mage nommé " Narrrciliss ". Il ressemble beaucoup à cet étrange scientifique de la Vallée des Tombes.~
 
 @1001 = ~Nettoyer le sous-sol
 
@@ -260,11 +260,11 @@ Le rituel a réussi. Le démon a été banni vers son plan d'origine... enfin, j
 
 @1010 = ~Un parchemin pour monsieur Matty
 
-Matthias Nanstorp, un jeune conseiller juridique, est venu à la guilde. Il a demandé notre aide pour récupérer un parchemin à bord du navire « Pinky Vixen », amarré à Athkatla. Ce document est très important pour son enquête sur la corruption locale. Nous devons chercher un marin de ce navire dans les Docks et essayer de négocier avec lui pour qu'il nous laisse monter à bord.~
+Matthias Nanstorp, un jeune conseiller juridique, est venu à la guilde. Il a demandé notre aide pour récupérer un parchemin à bord du navire " Pinky Vixen ", amarré à Athkatla. Ce document est très important pour son enquête sur la corruption locale. Nous devons chercher un marin de ce navire dans les Docks et essayer de négocier avec lui pour qu'il nous laisse monter à bord.~
 
 @1011 = ~Un parchemin pour monsieur Matty
 
-Nous nous sommes entendus avec un marin nommé Trump : il nous laissera monter à bord du « Pinky Vixen », mais demande 100 pièces d'or en échange. Une fois cette somme réunie, nous devrons retourner le voir.~
+Nous nous sommes entendus avec un marin nommé Trump : il nous laissera monter à bord du " Pinky Vixen ", mais demande 100 pièces d'or en échange. Une fois cette somme réunie, nous devrons retourner le voir.~
 
 @1012 = ~Un parchemin pour monsieur Matty
 
@@ -298,11 +298,11 @@ Une halfeline nommée Rosie Gold a contacté la Guilde des détectives. Son pèr
 
 @1019 = ~L'affaire du marin disparu
 
-Le comptable Galump nous a raconté que le père adoptif de Rosie aurait été emmené par une sorte de démon en direction de la taverne du « Havre des Sept Douleurs ». Étrange. Nous devrions aller vérifier.~
+Le comptable Galump nous a raconté que le père adoptif de Rosie aurait été emmené par une sorte de démon en direction de la taverne du " Havre des Sept Douleurs ". Étrange. Nous devrions aller vérifier.~
 
 @1020 = ~L'affaire du marin disparu
 
-Il s'avère que le « démon » n'était qu'une tieffeline que Peter avait accompagnée jusqu'à la taverne. D'après elle, il a ensuite longuement parlé avec un marin du navire « Mauvais Œil ». Peut-être sait-il où se trouve Peter maintenant ? Nous devrions aller dans le quartier des Docks.~
+Il s'avère que le " démon " n'était qu'une tieffeline que Peter avait accompagnée jusqu'à la taverne. D'après elle, il a ensuite longuement parlé avec un marin du navire " Mauvais Œil ". Peut-être sait-il où se trouve Peter maintenant ? Nous devrions aller dans le quartier des Docks.~
 
 @1021 = ~L'affaire du marin disparu
 
@@ -314,7 +314,7 @@ L'aubergiste des Collines d'Umar nous a dit que Melanie avait bien séjourné ch
 
 @1023 = ~L'affaire du marin disparu
 
-Nous avons réussi à retrouver Peter et à rompre l'enchantement qui le retenait sous forme de rat. Il s'est avéré que sa « bien-aimée » Melanie était une sorcière et qu'elle l'avait transformé en rat pour une raison inconnue. Rosie doit être heureuse d'avoir retrouvé son père. Affaire classée !~
+Nous avons réussi à retrouver Peter et à rompre l'enchantement qui le retenait sous forme de rat. Il s'est avéré que sa " bien-aimée " Melanie était une sorcière et qu'elle l'avait transformé en rat pour une raison inconnue. Rosie doit être heureuse d'avoir retrouvé son père. Affaire classée !~
 
 @1024 = ~L'affaire du marin disparu
 
